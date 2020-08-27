@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0697d6e64329ff8e08f2160fe8006c94",
+    "revision": "3b863f7c2b0905b1df69ed91d17fbc29",
     "url": "/decide2.0/index.html"
   },
   {
-    "revision": "edbe7149da4ec0f8cdfd",
+    "revision": "46dc39849c8cee35480d",
     "url": "/decide2.0/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/decide2.0/static/js/2.b0b689a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edbe7149da4ec0f8cdfd",
-    "url": "/decide2.0/static/js/main.28bb7747.chunk.js"
+    "revision": "46dc39849c8cee35480d",
+    "url": "/decide2.0/static/js/main.abf18b1c.chunk.js"
   },
   {
     "revision": "961541cc505c3283312d",
