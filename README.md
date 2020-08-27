@@ -1,3 +1,9 @@
+
+you can view the the deployed version of this app at [gitpages](https://vasanth9.github.io/decide2.0/)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
