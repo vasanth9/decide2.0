@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/decide2.0/static/css/main.5f361e03.chunk.css",
+    "main.js": "/decide2.0/static/js/main.28bb7747.chunk.js",
+    "main.js.map": "/decide2.0/static/js/main.28bb7747.chunk.js.map",
+    "runtime-main.js": "/decide2.0/static/js/runtime-main.52808e15.js",
+    "runtime-main.js.map": "/decide2.0/static/js/runtime-main.52808e15.js.map",
+    "static/js/2.b0b689a4.chunk.js": "/decide2.0/static/js/2.b0b689a4.chunk.js",
+    "static/js/2.b0b689a4.chunk.js.map": "/decide2.0/static/js/2.b0b689a4.chunk.js.map",
+    "index.html": "/decide2.0/index.html",
+    "precache-manifest.93f40cfdd34c5ccaf3d1f36b496ed66c.js": "/decide2.0/precache-manifest.93f40cfdd34c5ccaf3d1f36b496ed66c.js",
+    "service-worker.js": "/decide2.0/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/decide2.0/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b0b689a4.chunk.js.LICENSE.txt": "/decide2.0/static/js/2.b0b689a4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/decide2.0/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52808e15.js",
+    "static/js/2.b0b689a4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.28bb7747.chunk.js"
+  ]
+}
